@@ -1,16 +1,22 @@
-### Hi there 👋
+👋
 
-<!--
-**Joef/joef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+So, here we are. You've found my presence on the githubs. Welcome.
 
-Here are some ideas to get you started:
+I'm Joe (He/Him) and spend my time working on modern web frameworks, tinkering in AWS cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Notable projects include:
+
+- Athletic space rental 🏀 application, written in NodeJS and AngularJS 😔 and using MongoDB. It was MEAN 😡
+- Cloud platform for monitoring progress for patients with chronic disease 💨
+- Covid-response testing platform 💉 written in NodeJS and all the AWS Services: Cognito, SQS, DynamoDB, S3, and the front-end was 🔥 (Lit, not by choice)
+
+What's next?
+
+- Currently exploring opportunities to expand my expertise while helping early-stage ideas get off the ground 🚀
+
+Interests include:
+
+- Typescript
+- React
+- GraphQL
+- Serverless computing
